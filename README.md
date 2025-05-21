@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
-<h1 align="center">Hi 👋, I'm Dilshodbek</h1>
+<h1 align="center">Hi 👋, I'm Ahmadhon</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <p align="center">
 
